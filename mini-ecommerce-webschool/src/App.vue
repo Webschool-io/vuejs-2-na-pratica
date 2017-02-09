@@ -1,18 +1,14 @@
 <template>
-  <div>
-    <CcHello></CcHello>
+  <div class="phone-viewport">
+    <md-toolbar>
+      <h1 class="md-title">Ecommerce Webschool</h1>
+    </md-toolbar>
   </div>
 </template>
 
 <script>
-import CcHello from './components/Hello.vue'
-
 export default {
-  name: 'WebschoolComponent',
-
-  components: {
-    CcHello
-  }
+  name: 'WebschoolComponent'
 }
 </script>
 
