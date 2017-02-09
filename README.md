@@ -21,3 +21,15 @@ Durante o curso iremos desenvolver um mini-ecommerce, onde teremos:
 - Sistema de Busca;
 - Login;
 - Checkout.
+
+
+## Links Úteis
+
+- [Documentação Oficial do Vue.js](https://vuejs.org/v2/guide/)  
+- [Documentação Oficial do vue-cli](https://github.com/vuejs/vue-cli)
+
+
+## Grupos de Discussão
+
+- [Facebook](https://www.facebook.com/groups/webschool.vue/)  
+- [Telegram](https://t.me/webschoolvuejs)
