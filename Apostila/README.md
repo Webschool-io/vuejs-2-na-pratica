@@ -3,5 +3,5 @@
 
 ## Índice
 
-1. [Introdução](/pt-br/introducao.md)  
-2. [vue-cli](/pt-br/vue-cli.md)
+1. [Introdução](https://github.com/Webschool-io/vuejs-2-na-pratica/blob/master/Apostila/pt-br/introducao.md)  
+2. [vue-cli](https://github.com/Webschool-io/vuejs-2-na-pratica/blob/master/Apostila/pt-br/vue-cli.md)
