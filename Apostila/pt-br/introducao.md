@@ -3,8 +3,6 @@
 
 ## Introdução ao Vue.js
 
-# Introdução ao VueJS
-
 Primeiramente vamos aprender a pronúncia correta. Fala-se **view** *(/vjuː/)* e não **vue**. Ele foi criado pelo [Evan You](https://github.com/yyx990803) em 2014.
 
 O VueJS é um framework javascript progressivo, para desenvolvermos interfaces web robustas e complexas. Ele é baseado em componentes reativos para aplicações web modernas. Com ele, como já citado, podemos criar aplicações web iterativas, complexas e robustas.
