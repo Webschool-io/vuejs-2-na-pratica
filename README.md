@@ -35,3 +35,6 @@ Durante o curso iremos desenvolver um mini-ecommerce, onde teremos:
 
 - [Facebook](https://www.facebook.com/groups/webschool.vue/)  
 - [Telegram](https://t.me/webschoolvuejs)
+
+
+## Para enviar os exercícios, basta seguir as instruções [desse link](https://github.com/Webschool-io/vuejs-2-na-pratica/blob/master/Apostila/pt-br/como-enviar-exercicios.md)!
