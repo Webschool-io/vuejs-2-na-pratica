@@ -9,7 +9,7 @@ Acrescentar um **input** no *header* e fazer com que o título atualize automati
 
 ## Aula 05 - Resolvido
 
-'''''''''''
+````````````````````````````````````
 
 <template>
   <div id="app" class="phone-viewport">
@@ -37,6 +37,4 @@ export default {
 <style>
 
 </style>
-
-
-''''''''''''
+`````````````````````````````````````````
