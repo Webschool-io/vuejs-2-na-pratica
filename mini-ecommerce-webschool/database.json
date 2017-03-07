@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "permission": "admin",
+      "email": "admin@admin.com",
+      "password": "123"
+    },
+    {
+      "id": 0,
+      "permission": "user",
+      "email": "user@admin.com",
+      "password": "321"
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "name": "notebook",
+      "image": "http://www3.lenovo.com/medias/lenovo-laptop-lenovo-yoga-13-orange-back.png?context=bWFzdGVyfGltYWdlc3wxMjE1ODd8aW1hZ2UvcG5nfGltYWdlcy9oZTQvaDdkLzkzMjg1NTE1NTkxOTgucG5nfDAyODBhN2MxYzczNjRmNDdlYWU5NDFkMTNmMzdiZDg3NzA4ZWQ5NGUxMjMwZDRjZDE2ZmFiNTNjZjYxYTUxMDc",
+      "price": "2100",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "tecnologia"
+    },
+    {
+      "id": 1,
+      "name": "celular",
+      "image": "http://rockntech.com.br/wp-content/uploads/2013/09/top-20-aparelhos-telefone-celular-mais-vendidos_12.jpg",
+      "price": "1900",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "tecnologia"
+    },
+    {
+      "id": 3,
+      "name": "tenis",
+      "image": "http://artwalk.vteximg.com.br/arquivos/ids/184614-1000-1000/Tenis-New-Balance-574-Masculino-1.jpg",
+      "price": "320",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "roupas"
+    }
+  ]
+}

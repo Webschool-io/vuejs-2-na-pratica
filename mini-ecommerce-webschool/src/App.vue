@@ -1,23 +1,36 @@
 <template>
-  <header class="phone-viewport">
+  <main class="phone-viewport">
     <md-toolbar>
       <md-button class="md-icon button" @click.native="toggleLeftSidenav">
         <md-icon>menu</md-icon>
       </md-button>
 
-      <h1 class="md-title">{{ title }}</h1>
+      <h2 class="md-title">{{ title }}</h2>
     </md-toolbar>
 
     <md-sidenav class="md-left" ref="leftSidenav">
-       <md-toolbar class="md-medium">
-         <div class="md-toolbar-container">
-           <h2 class="md-title">Sidenav content</h2>
-         </div>
-       </md-toolbar>
+      <md-toolbar>
+        <div class="md-toolbar-container">
+          <h3 class="md-title">Navegação</h3>
+        </div>
+      </md-toolbar>
 
-       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi cupiditate esse necessitatibus beatae nobis, deserunt ut est fugit, tempora deleniti, eligendi commodi doloribus. Nemo, assumenda possimus, impedit inventore perferendis iusto!</p>
-     </md-sidenav>
-  </header>
+      <md-list>
+        <md-list-item>Perfil</md-list-item>
+        <md-list-item>
+          <router-link to="/categories">Categorias</router-link>
+        </md-list-item>
+        <md-list-item>
+          <router-link to="/products">Produtos</router-link>
+        </md-list-item>
+        <md-list-item>Sair</md-list-item>
+      </md-list>
+   </md-sidenav>
+
+   <md-row>
+     <router-view></router-view>
+    <md-row>
+  </main>
 </template>
 
 <script>
@@ -31,7 +44,9 @@ export default {
   },
 
   methods: {
-    toggleLeftSidenav () {}
+    toggleLeftSidenav () {
+      this.$refs.leftSidenav.toggle()
+    }
   }
 }
 </script>
