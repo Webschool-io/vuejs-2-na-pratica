@@ -1,9 +1,8 @@
 # Webschool.io - Curso Vue.js 2.x
 
-## Professores  
+## Professor
 
-- [Ednilson Amaral](https://github.com/ednilsonamaral)  
-- [Igor Luiz](https://github.com/Halfeld)
+- [Ednilson Amaral](https://github.com/ednilsonamaral)
 
 
 ## Informações Gerais
