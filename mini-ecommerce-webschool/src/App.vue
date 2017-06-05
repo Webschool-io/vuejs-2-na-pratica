@@ -8,14 +8,14 @@
       <h2 class="md-title">{{ title }}</h2>
     </md-toolbar>
 
-    <md-sidenav class="md-left" ref="leftSidenav">
+    <md-sidenav class="md-left" ref="leftSidenav" @open="open('Left')" @close="close('Left')">
       <md-toolbar>
         <div class="md-toolbar-container">
           <h3 class="md-title">Navegação</h3>
         </div>
       </md-toolbar>
 
-      <md-list>
+      <md-list @click.native="closeLeftSidenav">
         <md-list-item>Perfil</md-list-item>
         <md-list-item>
           <router-link to="/categories">Categorias</router-link>
@@ -29,7 +29,7 @@
 
    <md-row>
      <router-view></router-view>
-    <md-row>
+   </md-row>
   </main>
 </template>
 
@@ -46,6 +46,18 @@ export default {
   methods: {
     toggleLeftSidenav () {
       this.$refs.leftSidenav.toggle()
+    },
+
+    closeLeftSidenav () {
+      this.$refs.leftSidenav.close()
+    },
+
+    open (ref) {
+      console.log('Menu aberto: ' + ref)
+    },
+
+    close (ref) {
+      console.log('Menu fechado: ' + ref)
     }
   }
 }
