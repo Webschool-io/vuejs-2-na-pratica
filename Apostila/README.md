@@ -8,7 +8,9 @@
 3. [Instalação e Configuração do Vue Material](https://github.com/Webschool-io/vuejs-2-na-pratica/blob/master/Apostila/pt-br/vue-material.md)  
 4. [Two-way data binding](https://github.com/Webschool-io/vuejs-2-na-pratica/blob/master/Apostila/pt-br/two-way-data-binding.md)  
 5. [Diretivas](https://github.com/Webschool-io/vuejs-2-na-pratica/blob/master/Apostila/pt-br/diretivas.md)  
-6. [Propriedades](https://github.com/Webschool-io/vuejs-2-na-pratica/blob/master/Apostila/pt-br/propriedades.md)
+6. [Propriedades](https://github.com/Webschool-io/vuejs-2-na-pratica/blob/master/Apostila/pt-br/propriedades.md)  
+7. [vue-router](https://github.com/Webschool-io/vuejs-2-na-pratica/blob/master/Apostila/pt-br/vue-router.md)  
+8. [Axios](https://github.com/Webschool-io/vuejs-2-na-pratica/blob/master/Apostila/pt-br/axios.md)
 
 
 
