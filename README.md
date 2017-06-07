@@ -27,7 +27,8 @@ Durante o curso iremos desenvolver um mini-ecommerce, onde teremos:
 - [Nossa Apostila Oficial](https://github.com/Webschool-io/vuejs-2-na-pratica/tree/master/Apostila)  
 - [Documentação Oficial do Vue.js](https://vuejs.org/v2/guide/)  
 - [Documentação Oficial do vue-cli](https://github.com/vuejs/vue-cli)  
-- [Documentação Oficial do Vue Material](https://vuematerial.github.io/#/)
+- [Documentação Oficial do Vue Material](https://vuematerial.github.io/#/)  
+- [Documentação Oficial do vue-router](http://router.vuejs.org/en/)
 
 
 ## Grupos de Discussão
