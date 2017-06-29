@@ -9,7 +9,7 @@
 
 O curso de Vue.js da Webschool irá abordar do básico ao avançado. Ao final do curso, seremos capazes de construir aplicações robustas e complexas. Teremos conteúdo em texto, códigos e vídeos, para todos os gostos.
 
-Estudaremos diretamente a **versão 2.x!**
+Estudaremos diretamente a **versão 2!**
 
 Será um curso prático, ou seja, iremos aprender Vue.js na prática, já aplicando seus conceitos e técnicas em cenários reais.
 
@@ -28,7 +28,8 @@ Durante o curso iremos desenvolver um mini-ecommerce, onde teremos:
 - [Documentação Oficial do Vue.js](https://vuejs.org/v2/guide/)  
 - [Documentação Oficial do vue-cli](https://github.com/vuejs/vue-cli)  
 - [Documentação Oficial do Vue Material](https://vuematerial.github.io/#/)  
-- [Documentação Oficial do vue-router](http://router.vuejs.org/en/)
+- [Documentação Oficial do vue-router](http://router.vuejs.org/en/)  
+- [Documentação Oficial do Axios](https://github.com/mzabriskie/axios)
 
 
 ## Grupos de Discussão

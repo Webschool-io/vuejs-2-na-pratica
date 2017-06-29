@@ -2,8 +2,7 @@
   "name": "mini-ecommerce-webschool",
   "version": "1.0.0",
   "description": "Mini ecommerce da Webschool desenvolvido com Vue.js",
-  "author": "Ednilson Amaral && Igor Luiz",
-  "private": true,
+  "author": "Ednilson Amaral <http://ednilsonamaral.me>",
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
