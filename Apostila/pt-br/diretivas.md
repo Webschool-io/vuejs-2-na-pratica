@@ -8,7 +8,7 @@ Diretivas são atributos diferentes dos atributos do HTML. Todas as diretivas no
 
 # v-on
 
-Com a diretiva **v-on** nós anexmos um ouvinte de evento ao elemento em questão. O tipo desse evento é denotado conforme o seu argumento. Para visualizar os argumentos suportados pelo **v-on**, basta acessar a documentação oficial do Vue.js, [clicando aqui](https://vuejs.org/v2/api/#v-on). Sua expressão, pode ser um nome de um método ou uma instrução inline.
+Com a diretiva **v-on** nós anexamos um ouvinte de evento ao elemento em questão. O tipo desse evento é denotado conforme o seu argumento. Para visualizar os argumentos suportados pelo **v-on**, basta acessar a documentação oficial do Vue.js, [clicando aqui](https://vuejs.org/v2/api/#v-on). Sua expressão, pode ser um nome de um método ou uma instrução inline.
 
 Conforme a própria documentação nos diz:
 
